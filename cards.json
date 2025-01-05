@@ -1,7 +1,7 @@
 {
   "cards": [
     {
-      "name": "Gojod",
+      "name": "Gojo",
       "description": "Powerful sorcerer from Jujutsu Kaisen.",
       "rarity": "Mythic",
       "anime": "Jujutsu Kaisen",
@@ -10,42 +10,42 @@
     {
       "name": "Goku",
       "description": "Saiyan warrior from Dragon Ball Z.",
-      "rarity": "Epic",
+      "rarity": "Ultra",
       "anime": "Dragon Ball Z",
       "file": "png"
     },
     {
       "name": "Luffy",
       "description": "Pirate king in the making from One Piece.",
-      "rarity": "Basic",
+      "rarity": "Legendary",
       "anime": "One Piece",
       "file": "png"
     },
     {
-      "name": "Makima",
+      "name": "Gon",
       "description": "A mysterious and powerful woman from Chainsaw Man.",
-      "rarity": "Legendary",
+      "rarity": "Rare",
       "anime": "Chainsaw Man",
       "file": "png"
     },
     {
       "name": "Tanjiro",
       "description": "Demon Slayer with a strong sense of justice.",
-      "rarity": "Rare",
+      "rarity": "Basic",
       "anime": "Demon Slayer",
       "file": "png"
     },
     {
       "name": "Vegeta",
       "description": "Prideful Saiyan prince from Dragon Ball Z.",
-      "rarity": "Basic",
+      "rarity": "Mythic",
       "anime": "Dragon Ball Z",
       "file": "png"
     },
     {
-      "name": "Saitama",
+      "name": "Test",
       "description": "One Punch Man, undefeatable hero.",
-      "rarity": "Epic",
+      "rarity": "Ultra",
       "anime": "One Punch Man",
       "file": "gif"
     }
