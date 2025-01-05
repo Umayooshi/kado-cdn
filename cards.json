@@ -5,238 +5,49 @@
       "description": "Powerful sorcerer from Jujutsu Kaisen.",
       "rarity": "Mythic",
       "anime": "Jujutsu Kaisen",
-      "image": "/cards/mythic/gojo.png"
+      "file": "png"
     },
     {
       "name": "Goku",
       "description": "Saiyan warrior from Dragon Ball Z.",
       "rarity": "Epic",
       "anime": "Dragon Ball Z",
-      "image": "/cards/ultra/goku.png"
+      "file": ".png"
     },
     {
       "name": "Luffy",
       "description": "Pirate king in the making from One Piece.",
       "rarity": "Basic",
       "anime": "One Piece",
-      "image": "/cards/legendary/luffy.png"
+      "file": ".png"
     },
     {
       "name": "Makima",
       "description": "A mysterious and powerful woman from Chainsaw Man.",
       "rarity": "Legendary",
       "anime": "Chainsaw Man",
-      "image": "/cards/legendary/makima.png"
+      "file": ".png"
     },
     {
       "name": "Tanjiro",
       "description": "Demon Slayer with a strong sense of justice.",
       "rarity": "Rare",
       "anime": "Demon Slayer",
-      "image": "/cards/basic/tanjiro.png"
+      "file": ".png"
     },
     {
       "name": "Vegeta",
       "description": "Prideful Saiyan prince from Dragon Ball Z.",
       "rarity": "Basic",
       "anime": "Dragon Ball Z",
-      "image": "/cards/mythic/vegeta.png"
+      "file": ".png"
     },
     {
       "name": "Saitama",
       "description": "One Punch Man, undefeatable hero.",
       "rarity": "Epic",
       "anime": "One Punch Man",
-      "image": "/cards/ultra/test.gif"
-    },
-    {
-      "name": "Naruto",
-      "description": "Ninja with dreams of becoming Hokage.",
-      "rarity": "Rare",
-      "anime": "Naruto",
-      "image": "https://placehold.co/300x400?text=Naruto"
-    },
-    {
-      "name": "Zoro",
-      "description": "Sword master from One Piece.",
-      "rarity": "Legendary",
-      "anime": "One Piece",
-      "image": "https://placehold.co/300x400?text=Zoro"
-    },
-    {
-      "name": "Natsu",
-      "description": "Fiery dragon slayer from Fairy Tail.",
-      "rarity": "Rare",
-      "anime": "Fairy Tail",
-      "image": "https://placehold.co/300x400?text=Natsu"
-    },
-    {
-      "name": "Kakashi",
-      "description": "The enigmatic ninja from Naruto.",
-      "rarity": "Basic",
-      "anime": "Naruto",
-      "image": "https://placehold.co/300x400?text=Kakashi"
-    },
-    {
-      "name": "Mikasa",
-      "description": "Titan-slayer from Attack on Titan.",
-      "rarity": "Epic",
-      "anime": "Attack on Titan",
-      "image": "https://placehold.co/300x400?text=Mikasa"
-    },
-    {
-      "name": "Erwin",
-      "description": "Leader of the Survey Corps from Attack on Titan.",
-      "rarity": "Rare",
-      "anime": "Attack on Titan",
-      "image": "https://placehold.co/300x400?text=Erwin"
-    },
-    {
-      "name": "Shanks",
-      "description": "The powerful pirate from One Piece.",
-      "rarity": "Legendary",
-      "anime": "One Piece",
-      "image": "https://placehold.co/300x400?text=Shanks"
-    },
-    {
-      "name": "Jotaro",
-      "description": "JoJo with a stand from JoJo's Bizarre Adventure.",
-      "rarity": "Epic",
-      "anime": "JoJo's Bizarre Adventure",
-      "image": "https://placehold.co/300x400?text=Jotaro"
-    },
-    {
-      "name": "Kuwabara",
-      "description": "Tough guy from Yu Yu Hakusho.",
-      "rarity": "Basic",
-      "anime": "Yu Yu Hakusho",
-      "image": "https://placehold.co/300x400?text=Kuwabara"
-    },
-    {
-      "name": "Kurama",
-      "description": "Demon fox from Yu Yu Hakusho.",
-      "rarity": "Rare",
-      "anime": "Yu Yu Hakusho",
-      "image": "https://placehold.co/300x400?text=Kurama"
-    },
-    {
-      "name": "Hiei",
-      "description": "Sword-wielding demon from Yu Yu Hakusho.",
-      "rarity": "Legendary",
-      "anime": "Yu Yu Hakusho",
-      "image": "https://placehold.co/300x400?text=Hiei"
-    },
-    {
-      "name": "Asta",
-      "description": "Magicless wizard from Black Clover.",
-      "rarity": "Epic",
-      "anime": "Black Clover",
-      "image": "https://placehold.co/300x400?text=Asta"
-    },
-    {
-      "name": "Yuno",
-      "description": "Powerful wind mage from Black Clover.",
-      "rarity": "Rare",
-      "anime": "Black Clover",
-      "image": "https://placehold.co/300x400?text=Yuno"
-    },
-    {
-      "name": "Saber",
-      "description": "Heroic spirit from Fate/stay night.",
-      "rarity": "Legendary",
-      "anime": "Fate/stay night",
-      "image": "https://placehold.co/300x400?text=Saber"
-    },
-    {
-      "name": "Roronoa Zoro",
-      "description": "Swordmaster from One Piece.",
-      "rarity": "Epic",
-      "anime": "One Piece",
-      "image": "https://placehold.co/300x400?text=Roronoa+Zoro"
-    },
-    {
-      "name": "Skeeter",
-      "description": "Noble adventurer from a fantasy world.",
-      "rarity": "Basic",
-      "anime": "Fantasy World",
-      "image": "https://placehold.co/300x400?text=Skeeter"
-    },
-    {
-      "name": "Renji",
-      "description": "Zanpakuto wielder from Bleach.",
-      "rarity": "Rare",
-      "anime": "Bleach",
-      "image": "https://placehold.co/300x400?text=Renji"
-    },
-    {
-      "name": "Ichigo",
-      "description": "Soul Reaper from Bleach.",
-      "rarity": "Legendary",
-      "anime": "Bleach",
-      "image": "https://placehold.co/300x400?text=Ichigo"
-    },
-    {
-      "name": "Hikaru",
-      "description": "Strategy master from Hikaru no Go.",
-      "rarity": "Epic",
-      "anime": "Hikaru no Go",
-      "image": "https://placehold.co/300x400?text=Hikaru"
-    },
-    {
-      "name": "Lelouch",
-      "description": "Strategist and emperor from Code Geass.",
-      "rarity": "Rare",
-      "anime": "Code Geass",
-      "image": "https://placehold.co/300x400?text=Lelouch"
-    },
-    {
-      "name": "Gintoki",
-      "description": "Oddball samurai from Gintama.",
-      "rarity": "Basic",
-      "anime": "Gintama",
-      "image": "https://placehold.co/300x400?text=Gintoki"
-    },
-    {
-      "name": "Edward Elric",
-      "description": "Alchemy genius from Fullmetal Alchemist.",
-      "rarity": "Epic",
-      "anime": "Fullmetal Alchemist",
-      "image": "https://placehold.co/300x400?text=Edward+Elric"
-    },
-    {
-      "name": "Alphonse Elric",
-      "description": "Brother of Edward, alchemist from Fullmetal Alchemist.",
-      "rarity": "Rare",
-      "anime": "Fullmetal Alchemist",
-      "image": "https://placehold.co/300x400?text=Alphonse+Elric"
-    },
-    {
-      "name": "Yami",
-      "description": "Dark mage from Black Clover.",
-      "rarity": "Legendary",
-      "anime": "Black Clover",
-      "image": "https://placehold.co/300x400?text=Yami"
-    },
-    {
-      "name": "Skeeter",
-      "description": "The cunning mage from a secret organization.",
-      "rarity": "Epic",
-      "anime": "Magic Reign",
-      "image": "https://placehold.co/300x400?text=Skeeter+Magic+Reign"
-    },
-    {
-      "name": "Misaka",
-      "description": "Electrifying esper from Railgun.",
-      "rarity": "Rare",
-      "anime": "A Certain Scientific Railgun",
-      "image": "https://placehold.co/300x400?text=Misaka"
-    },
-    {
-      "name": "Accelerator",
-      "description": "The strongest esper from Index.",
-      "rarity": "Legendary",
-      "anime": "A Certain Magical Index",
-      "image": "https://placehold.co/300x400?text=Accelerator"
+      "file": ".gif"
     }
   ]
 }
