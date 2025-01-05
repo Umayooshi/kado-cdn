@@ -12,42 +12,42 @@
       "description": "Saiyan warrior from Dragon Ball Z.",
       "rarity": "Epic",
       "anime": "Dragon Ball Z",
-      "file": ".png"
+      "file": "png"
     },
     {
       "name": "Luffy",
       "description": "Pirate king in the making from One Piece.",
       "rarity": "Basic",
       "anime": "One Piece",
-      "file": ".png"
+      "file": "png"
     },
     {
       "name": "Makima",
       "description": "A mysterious and powerful woman from Chainsaw Man.",
       "rarity": "Legendary",
       "anime": "Chainsaw Man",
-      "file": ".png"
+      "file": "png"
     },
     {
       "name": "Tanjiro",
       "description": "Demon Slayer with a strong sense of justice.",
       "rarity": "Rare",
       "anime": "Demon Slayer",
-      "file": ".png"
+      "file": "png"
     },
     {
       "name": "Vegeta",
       "description": "Prideful Saiyan prince from Dragon Ball Z.",
       "rarity": "Basic",
       "anime": "Dragon Ball Z",
-      "file": ".png"
+      "file": "png"
     },
     {
       "name": "Saitama",
       "description": "One Punch Man, undefeatable hero.",
       "rarity": "Epic",
       "anime": "One Punch Man",
-      "file": ".gif"
+      "file": "gif"
     }
   ]
 }
